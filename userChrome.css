@@ -376,3 +376,13 @@ notification-message {border-radius: 0 !important;}
   min-width: 300px;
   max-width: 300px;
 }
+/* hide the search icon */
+.searchbar-search-button {
+  display: none;
+}
+
+
+.titlebar-spacer {
+  display: none;
+}
+
